@@ -1,4 +1,4 @@
-#include "Controller/CommandController.hpp"
+#include "CommandController.hpp"
 
 #include <iostream>
 
